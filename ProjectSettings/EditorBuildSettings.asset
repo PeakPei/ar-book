@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/DataFiles/Scenes/ARBOOKScene.unity
+    guid: 4dea8fb7b3470014b8e14efcd82dc21c
